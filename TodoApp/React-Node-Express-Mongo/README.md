@@ -48,7 +48,7 @@ This is a starter template for building applications using React for the fronten
  
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/mrmasood18/TODOAPP.git
     ```
 
 2. Navigate to the project directory:
@@ -71,7 +71,7 @@ This is a starter template for building applications using React for the fronten
     cd backend
     ```
 
-6. Replace the placeholder `<username>`, `<password>`, and `<cluster_name>` in the `DB_CONNECTION_STRING` environment variable with your own MongoDB connection string. Open the `.env` file and update the following line:
+6. Replace the placeholder `<username>`, `<password>`, and `<cluster_name>` in the `DB_CONNECTION_STRING` environment variable with your own MongoDB connection string. The credentials that you previously noted down will be useful here.Open the `.env` file and update the following line:
     ```
     DB_CONNECTION_STRING=mongodb+srv://<username>:<password>@<cluster_name>/TodoApp
     ```
