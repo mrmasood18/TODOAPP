@@ -48,12 +48,12 @@ This is a starter template for building applications using React for the fronten
  
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AppAnySite/BBlocks.git
+    git clone 
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd BBlocks/React-Node-Express-Mongo
+    cd TODOAPP/React-Node-Express-Mongo
     ```
 
 3. Install dependencies for the client:
